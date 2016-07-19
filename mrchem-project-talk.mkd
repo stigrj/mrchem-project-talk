@@ -1,16 +1,22 @@
 name: inverse
 layout: true
 class: center, middle, inverse
+
 ---
+
 #The MRChem project
 
 .author[Stig Rune Jensen]
+
 .date[3 August 2016, Stony Brook, NY]
-.footnote[Slides available on [GitHub](https://github.com/stigrj/mrcpp-project-talk)]
+
+.footnote[Slides available on [GitHub](https://github.com/stigrj/mrchem-project-talk)]
 
 ---
+
 template: inverse
 # Who are we?
+
 ---
 
 layout: false
@@ -25,8 +31,10 @@ layout: false
 ]
 
 ---
+
 template: inverse
 # Where are we?
+
 ---
 
 layout: false
@@ -34,14 +42,17 @@ layout: false
 # Tromsø
 ]
 .right-column[
-- The university
+- The country
 - The city
+- The university
 - Outdoor activities
 ]
 
 ---
+
 template: inverse
-# What have we been doing?
+# What is MRChem?
+
 ---
 
 layout: false
@@ -49,15 +60,38 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- History
-- MRCPP
-- MRChem
-- Spaghetti code xkcd
+- Mr. Chem
 ]
 
 ---
+
+layout: false
+.left-column[
+## MRChem
+]
+.right-column[
+- The brief wondrous life of MRChem<sup>.red[*]</sup>
+  * The MRChem C code
+  * Spaghetti code xkcd
+  * The MRCPP C++ code
+  * Spaghetti code xkcd
+  * The MRCPP + MRChem C++ code
+
+.footnote[.red[*]by Junot Díaz]
+]
+
+---
+
+template: inverse
+# Twice spaghetti code<sup>.red[*]</sup>
+
+.footnote[.red[*]and now the requirements have partially changed]
+
+---
+
 template: inverse
 # What will we be doing?
+
 ---
 
 layout: false
