@@ -144,7 +144,7 @@ template: inverse
 
 layout: false
 .left-column[
-# Norway
+## Norway
 ]
 .right-column[
 <img
@@ -156,8 +156,8 @@ style="width: 80%; float: left">
 
 layout: false
 .left-column[
-# Norway
-# Tromsø
+## Norway
+### Tromsø
 ]
 .right-column[
 <img
