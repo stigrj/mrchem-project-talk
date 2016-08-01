@@ -19,6 +19,196 @@ template: inverse
 
 ---
 
+layout: false
+.left-column[
+## People involved
+### Senior scientists
+]
+.right-column[
+#### Luca Frediani
+- Assistant professor
+- Department of Chemistry
+<img src="images/luca.jpg" style="width: 100%; float: left">
+
+#### Tor Flå
+- Professor
+- Department of Mathematics and Statistics
+<img src="images/tor.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+## People involved
+### Senior scientists
+### Researchers
+]
+.right-column[
+#### Stig Rune Jensen
+- Postdoc
+- Department of Chemistry
+<img src="images/stig.jpg" style="width: 100%; float: left">
+
+#### Peter Wind
+- Researcher (20%)
+- Department of Chemistry
+<img src="images/peter.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+## People involved
+### Senior scientists
+### Researchers
+### Technical staff
+]
+.right-column[
+#### Radovan Bast
+- Senior engineer
+- High Performance Computing group
+<img src="images/radovan.jpg" style="width: 100%; float: left">
+
+#### Dan Jonsson
+- Senior engineer
+- High Performance Computing group
+<img src="images/dan.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+## People involved
+### Senior scientists
+### Researchers
+### Technical staff
+### Students
+]
+.right-column[
+#### Rune Sørland Monstad
+- Master student
+- Department of Chemistry
+
+#### Magnar Bjørgve
+- Master student
+- Department of Mathematics and Statistics
+
+<img src="images/rune_magnar.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+## People involved
+### Senior scientists
+### Researchers
+### Technical staff
+### Students
+### Former members
+]
+.right-column[
+#### Jonas Juselius
+- Senior engineer
+- High Performance Computing group
+
+<img src="images/jonas.jpg" style="width: 100%; float: left">
+
+#### Antoine Durdek
+- PhD student
+- Department of Mathematics and Statistics
+
+#### Eirik Fossgård
+- Postdoc
+- Department of Mathematics and Statistics
+
+]
+
+---
+
+template: inverse
+# Where are we?
+
+---
+
+layout: false
+.left-column[
+# Norway
+]
+.right-column[
+<img src="images/norway_map.gif" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+]
+.right-column[
+<img src="images/north_pole_map.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+# Tromsø
+]
+.right-column[
+<img src="http://www6.clikpic.com/audunrikardsen/images/Stjerner_fra_to_verdener_Audun_Rikardsen_72ppi_HS.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+# Tromsø
+]
+.right-column[
+<img src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+# Tromsø
+]
+.right-column[
+<img src="http://admin6.clikpic.com/audunrikardsen/images/Panorame_Sess%C3%B8ya_360_HS.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+# Tromsø
+]
+.right-column[
+<img src="http://amazon.clikpic.com/audunrikardsen/images/Skilykke_Storsolpan_1.jpg" style="width: 100%; float: left">
+]
+
+---
+
+layout: false
+.left-column[
+# Norway
+# Tromsø
+]
+.right-column[
+<img src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg" style="width: 100%; float: left">
+]
+
+---
+
 template: inverse
 # What is MRChem?
 
