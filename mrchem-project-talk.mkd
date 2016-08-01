@@ -28,12 +28,14 @@ layout: false
 #### Luca Frediani
 - Assistant professor
 - Department of Chemistry
-<img src="images/luca.jpg" style="width: 10%; float: left">
+
+<img src="images/luca.jpg" style="width: 20%; float: left">
 
 #### Tor Flå
 - Professor
 - Department of Mathematics and Statistics
-<img src="images/tor.jpg" style="width: 10%; float: left">
+
+<img src="images/tor.jpg" style="width: 20%; float: left">
 ]
 
 ---
@@ -48,12 +50,14 @@ layout: false
 #### Stig Rune Jensen
 - Postdoc
 - Department of Chemistry
-<img src="images/stig.jpg" style="width: 10%; float: left">
+
+<img src="images/stig.jpg" style="width: 20%; float: left">
 
 #### Peter Wind
 - Researcher (20%)
 - Department of Chemistry
-<img src="images/peter.jpg" style="width: 10%; float: left">
+
+<img src="images/peter.jpg" style="width: 20%; float: left">
 ]
 
 ---
@@ -69,12 +73,13 @@ layout: false
 #### Radovan Bast
 - Senior engineer
 - High Performance Computing group
-<img src="images/radovan.jpg" style="width: 10%; float: left">
+
+<img src="images/radovan.jpg" style="width: 20%; float: left">
 
 #### Dan Jonsson
 - Senior engineer
 - High Performance Computing group
-<img src="images/dan.jpg" style="width: 10%; float: left">
+<img src="images/dan.jpg" style="width: 20%; float: left">
 ]
 
 ---
@@ -96,7 +101,7 @@ layout: false
 - Master student
 - Department of Mathematics and Statistics
 
-<img src="images/rune_magnar.jpg" style="width: 80%; float: left">
+<img src="images/rune_magnar.jpg" style="width: 60%; float: left">
 ]
 
 ---
@@ -145,35 +150,35 @@ layout: false
 template: inverse
 <img
 src="http://www6.clikpic.com/audunrikardsen/images/Stjerner_fra_to_verdener_Audun_Rikardsen_72ppi_HS.jpg"
-style="width: 80%; float: left">
+style="width: 60%; float: center">
 
 ---
 
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg"
-style="width: 100%; float: left">
+style="width: 120%; float: left">
 
 ---
 
 template: inverse
 <img
 src="http://admin6.clikpic.com/audunrikardsen/images/Panorame_Sess%C3%B8ya_360_HS.jpg"
-style="width: 100%; float: left">
+style="width: 120%; float: left">
 
 ---
 
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/Skilykke_Storsolpan_1.jpg"
-style="width: 100%; float: left">
+style="width: 120%; float: left">
 
 ---
 
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
-style="width: 100%; float: left">
+style="width: 120%; float: left">
 
 ---
 
