@@ -197,7 +197,11 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- Mr. Chem
+
+<img
+src="https://i.ytimg.com/vi/fWnF3YVwz2Y/hqdefault.jpg"
+style="width: 100%; float: left">
+
 ]
 
 ---
