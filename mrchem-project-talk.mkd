@@ -202,7 +202,7 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- The brief wondrous life of MRChem<sup>.red[*]</sup>
+#### The brief wondrous life of MRChem<sup>.red[*]</sup>
   * The MRChem C code
 
 .footnote[.red[*]by Junot Díaz]
@@ -215,9 +215,10 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- The brief wondrous life of MRChem
 
-<img src="http://imgs.xkcd.com/comics/good_code.png" style="width: 100%; float: left">
+<img
+src="http://imgs.xkcd.com/comics/good_code.png"
+style="width: 60%; float: left">
 
 ]
 
@@ -241,9 +242,10 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- The brief wondrous life of MRChem
 
-<img src="http://imgs.xkcd.com/comics/good_code.png" style="width: 100%; float: left">
+<img
+src="http://imgs.xkcd.com/comics/good_code.png"
+style="width: 60%; float: left">
 
 ]
 
