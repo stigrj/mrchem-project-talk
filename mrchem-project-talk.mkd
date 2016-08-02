@@ -273,7 +273,7 @@ template: inverse
 template: inverse
 <img
 src="https://i.ytimg.com/vi/fWnF3YVwz2Y/hqdefault.jpg"
-style="width: 100%; float: left">
+style="width: 80%; float: left">
 
 ---
 
@@ -305,7 +305,7 @@ layout: false
 src="http://imgs.xkcd.com/comics/good_code.png"
 style="width: 60%; float: left">
 
-.footnote[[xkcd.com]]
+.footnote[ [xkcd.com] ]
 
 [xkcd.com]: http://xkcd.com/844/
 ]
