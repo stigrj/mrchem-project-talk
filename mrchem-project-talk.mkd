@@ -27,19 +27,19 @@ layout: false
 
 
 .right-column[
-#### Luca Frediani
-
 <img src="images/luca.jpg" style="width: 20%; float: right">
+
+#### Luca Frediani
 
 - Assistant professor
 - Department of Chemistry
+
+<img src="images/tor.jpg" style="width: 20%; float: right">
 
 #### Tor Flå
 
 - Professor
 - Department of Mathematics and Statistics
-
-<img src="images/tor.jpg" style="width: 20%; float: right">
 
 ]
 
@@ -56,11 +56,12 @@ layout: false
 - Postdoc
 - Department of Chemistry
 
+<img src="images/peter.jpg" style="width: 20%; float: right">
+
 #### Peter Wind
 - Researcher (20%)
 - Department of Chemistry
 
-<img src="images/peter.jpg" style="width: 20%; float: right">
 ]
 
 ---
@@ -79,10 +80,11 @@ layout: false
 - Senior engineer
 - High Performance Computing group
 
+<img src="images/dan.jpg" style="width: 20%; float: right">
+
 #### Dan Jonsson
 - Senior engineer
 - High Performance Computing group
-<img src="images/dan.jpg" style="width: 20%; float: right">
 ]
 
 ---
