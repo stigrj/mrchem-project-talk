@@ -27,13 +27,13 @@ layout: false
 
 
 .right-column[
-<img src="images/luca.jpg" style="width: 19%; float: right">
+<img src="images/luca.jpg" style="width: 17%; float: right">
 
 #### Luca Frediani
 - Assistant professor
 - Department of Chemistry
 
-<img src="images/tor.jpg" style="width: 19%; float: right">
+<img src="images/tor.jpg" style="width: 17%; float: right">
 
 #### Tor Flå
 - Professor
@@ -128,7 +128,7 @@ style="width: 20%; float: right">
 
 <img
 src="https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/457707_10150904042088966_1223726666_o.jpg"
-style="width: 20%; float: right">
+style="width: 16%; float: right">
 
 #### Antoine Durdek
 - PhD student
