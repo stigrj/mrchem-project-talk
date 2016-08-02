@@ -275,13 +275,13 @@ layout: false
 ]
 .right-column[
 #### The history of MRChem
-- Initiated back in 2003 by Tor Flå and Kenneth Ruud
+Initiated back in 2003 by Tor Flå and Kenneth Ruud
 
-- The MRChem C code
-  * Written by Luca Frediani and Eirik Fossgaard
-  * NS-form operator application
-  * I joined as a master student in 2007 and prepared
-    the code for molecular computations
+The MRChem C code
+- Written by Luca Frediani and Eirik Fossgaard
+- NS-form operator application
+- I joined as a master student in 2007 and prepared
+  the code for molecular computations
 
 ]
 
@@ -310,25 +310,25 @@ layout: false
 ]
 .right-column[
 #### The brief wondrous life of MRChem
-- Initiated back in 2003 by Tor Flå and Kenneth Ruud
+Initiated back in 2003 by Tor Flå and Kenneth Ruud
 
-- The MRChem C code
-  * Written by Luca Frediani and Eirik Fossgaard
-  * NS-form operator application
-  * I joined as a master student in 2007 and started
-    preparing the code for molecular computations
+The MRChem C code
+- Written by Luca Frediani and Eirik Fossgaard
+- NS-form operator application
+- I joined as a master student in 2007 and started
+  preparing the code for molecular computations
 
-- The MRCPP C++ code
-  * Written (mostly) by me and Jonas Juselius
-  * NS-form operator application
-  * Hybrid MPI/OpenMP parallelization
-  * Ground state SCF solver
-  * Linear response solver
-    + Static and dynamic
-    + Electric polarizability
-    + Magnetizability
-    + NMR shielding constants
-    + Optical rotation
+The MRCPP C++ code
+- Written (mostly) by me and Jonas Juselius
+- NS-form operator application
+- Hybrid MPI/OpenMP parallelization
+- Ground state SCF solver
+- Linear response solver
+  * Static and dynamic
+  * Electric polarizability
+  * Magnetizability
+  * NMR shielding constants
+  * Optical rotation
 
 ]
 
