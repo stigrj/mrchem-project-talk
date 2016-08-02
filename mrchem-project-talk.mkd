@@ -316,11 +316,11 @@ layout: false
   * Hybrid MPI/OpenMP parallelization
   * Ground state SCF solver
   * Linear response solver
-    - Static and dynamic
-    - Electric polarizability
-    - Magnetizability
-    - NMR shielding constants
-    - Optical rotation
+    + Static and dynamic
+    + Electric polarizability
+    + Magnetizability
+    + NMR shielding constants
+    + Optical rotation
 
 ]
 
