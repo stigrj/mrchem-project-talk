@@ -267,6 +267,7 @@ layout: false
 .right-column[
 #### The brief wondrous life of MRChem<sup>.red[*]</sup>
 - Initiated back in 2003 by Tor Flå and Kenneth Ruud
+
 - The MRChem C code
   * Written by Luca Frediani and Eirik Fossgaard
   * NS-form operator application
@@ -301,8 +302,25 @@ layout: false
 ]
 .right-column[
 #### The brief wondrous life of MRChem
+- Initiated back in 2003 by Tor Flå and Kenneth Ruud
+
 - The MRChem C code
+  * Written by Luca Frediani and Eirik Fossgaard
+  * NS-form operator application
+  * I joined as a master student in 2007 and started
+    preparing the code for molecular computations
+
 - The MRCPP C++ code
+  * Written (mostly) by me and Jonas Juselius
+  * NS-form operator application
+  * Hybrid MPI/OpenMP parallelization
+  * Ground state SCF solver
+  * Linear response solver
+    - Static and dynamic
+    - Electric polarizability
+    - Magnetizability
+    - NMR shielding constants
+    - Optical rotation
 
 ]
 
@@ -337,9 +355,18 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- The MRCPP/MRChem code today
-  * The MRCPP C++ code
-  * The MRChem C++ code
+#### The MRCPP/MRChem code today
+- The MRCPP C++ code
+  * MRA library
+  * NS-form operator application
+  * Arithmetic operations
+  * OpenMP parallelized
+
+- The MRChem C++ code
+  * Chemistry application of MRCPP
+  * Ground state SCF solver
+  * Linear response solver (coming soon)
+  * MPI parallelized (coming soon)
 
 ]
 
@@ -357,10 +384,10 @@ layout: false
 .right-column[
 #### Improvements
 - Optimize MRCPP (sequential style)
-- Parallelize MRChem
+- MPI parallelize MRChem
+- Data locality vs data distribution
 - Reach out to the chemistry application community
 - Not that interested in high accuracy (why would they?)
-- Data locality vs data distribution
 
 #### New features
 - Re-introduce linear response code
