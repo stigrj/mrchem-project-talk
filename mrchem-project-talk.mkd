@@ -170,12 +170,12 @@ layout: false
 .left-column[
 ## Norway
 ### Tromsø
-### The University
+### University
 ]
 .right-column[
 <img
 src="http://snapsandblabs.com/blog/wp-content/uploads/2012/05/TromsoMap.jpg"
-style="width: 90%; float: left">
+style="width: 100%; float: left">
 
 #### UiT - The Arctic University of Norway
 - 6 different locations
@@ -190,7 +190,7 @@ template: inverse
 # Living in Tromsø
 ## Expectations<sup>.red[*]</sup>
 
-.footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]
+.footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]]
 
 [www.audunrikardsen.com]: https://www.audunrikardsen.com
 ---
