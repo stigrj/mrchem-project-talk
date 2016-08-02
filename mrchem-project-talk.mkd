@@ -27,13 +27,13 @@ layout: false
 
 
 .right-column[
-<img src="images/luca.jpg" style="width: 17%; float: right">
+<img src="images/luca.jpg" style="width: 15%; float: right">
 
 #### Luca Frediani
 - Assistant professor
 - Department of Chemistry
 
-<img src="images/tor.jpg" style="width: 17%; float: right">
+<img src="images/tor.jpg" style="width: 15%; float: right">
 
 #### Tor Flå
 - Professor
@@ -183,7 +183,7 @@ template: inverse
 
 .footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]]
 
-[www.audunrikardsen.com]: www.audunrikardsen.com
+[www.audunrikardsen.com]: https://www.audunrikardsen.com
 
 ---
 
@@ -229,7 +229,7 @@ template: inverse
 
 .footnote[.red[*]Photos by random people on the internet, see [theinternet.com]]
 
-[theinternet.com]: theinternet.com
+[theinternet.com]: https://theinternet.com
 
 ---
 
