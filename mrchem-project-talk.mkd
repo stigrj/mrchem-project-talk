@@ -69,7 +69,7 @@ layout: false
 ## People involved
 ### Senior scientists
 ### Researchers
-### Technical staff
+### Technicians
 ]
 .right-column[
 <img src="images/radovan.jpg" style="width: 20%; float: right">
@@ -92,7 +92,7 @@ layout: false
 ## People involved
 ### Senior scientists
 ### Researchers
-### Technical staff
+### Technicians
 ### Students
 ]
 .right-column[
@@ -114,7 +114,7 @@ layout: false
 ## People involved
 ### Senior scientists
 ### Researchers
-### Technical staff
+### Technicians
 ### Students
 ### Former members
 ]
