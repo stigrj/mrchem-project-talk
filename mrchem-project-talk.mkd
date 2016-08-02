@@ -192,7 +192,7 @@ template: inverse
 
 .footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]]
 
-[www.audunrikardsen.com]: https://www.audunrikardsen.com
+[www.audunrikardsen.com]: www.audunrikardsen.com
 
 ---
 
@@ -238,7 +238,7 @@ template: inverse
 
 .footnote[.red[*]Photos by random people on the internet, see [theinternet.com]]
 
-[theinternet.com]: https://theinternet.com
+[theinternet.com]: theinternet.com
 
 ---
 
