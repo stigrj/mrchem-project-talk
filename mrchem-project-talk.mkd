@@ -129,7 +129,7 @@ layout: false
 - PhD student
 - Department of Mathematics and Statistics
 
-#### Eirik Fossgård
+#### Eirik Fossgaard
 - Postdoc
 - Department of Mathematics and Statistics
 
@@ -283,7 +283,12 @@ layout: false
 ]
 .right-column[
 #### The brief wondrous life of MRChem<sup>.red[*]</sup>
-  * The MRChem C code
+- Initiated back in 2003 by Tor Flå and Kenneth Ruud
+- The MRChem C code
+  * Written by Luca Frediani and Eirik Fossgaard
+  * NS-form operator application
+  * I joined as a master student in 2007 and prepared
+    the code for molecular computations
 
 .footnote[.red[*]by Junot Díaz]
 ]
@@ -298,8 +303,11 @@ layout: false
 
 <img
 src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 70%; float: left">
+style="width: 60%; float: left">
 
+[xkcd.com]
+
+[xkcd.com]: http://xkcd.com/844/
 ]
 
 ---
@@ -309,9 +317,9 @@ layout: false
 ## MRChem
 ]
 .right-column[
-- The brief wondrous life of MRChem
-  * The MRChem C code
-  * The MRCPP C++ code
+#### The brief wondrous life of MRChem
+- The MRChem C code
+- The MRCPP C++ code
 
 ]
 
@@ -325,8 +333,11 @@ layout: false
 
 <img
 src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 70%; float: left">
+style="width: 60%; float: left">
 
+[xkcd.com]
+
+[xkcd.com]: http://xkcd.com/844/
 ]
 
 ---
@@ -361,14 +372,14 @@ layout: false
 ## Future plans
 ]
 .right-column[
-Improvements:
+#### Improvements
 - Optimize MRCPP (sequential style)
 - Parallelize MRChem
 - Reach out to the chemistry application community
 - Not that interested in high accuracy (why would they?)
 - Data locality vs data distribution
 
-Features:
+#### New features
 - Re-introduce linear response code
 - Higher order response (OpenRSP)
 - Relativity
