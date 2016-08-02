@@ -28,18 +28,18 @@ layout: false
 
 .right-column[
 #### Luca Frediani
-<img src="images/luca.jpg" style="width: 20%; float: right">
 
 - Assistant professor
-
 - Department of Chemistry
 
+<img src="images/luca.jpg" style="width: 20%; float: right">
+
 #### Tor Flå
-<img src="images/tor.jpg" style="width: 20%; float: right">
 
 - Professor
-
 - Department of Mathematics and Statistics
+
+<img src="images/tor.jpg" style="width: 20%; float: right">
 
 ]
 
