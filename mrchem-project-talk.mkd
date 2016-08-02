@@ -27,7 +27,7 @@ layout: false
 
 
 .right-column[
-<img src="images/luca.jpg" style="width: 20%; float: right">
+<img src="images/luca.jpg" style="width: 19%; float: right">
 
 #### Luca Frediani
 
@@ -35,7 +35,7 @@ layout: false
 
 - Department of Chemistry
 
-<img src="images/tor.jpg" style="width: 20%; float: right">
+<img src="images/tor.jpg" style="width: 19%; float: right">
 
 #### Tor Flå
 
@@ -123,13 +123,22 @@ layout: false
 ### Former members
 ]
 .right-column[
+<img src="http://hrogn.no/jonas.jpg"
+style="width: 50%; float: right">
+
 #### Jonas Juselius
 - Senior engineer
 - High Performance Computing group
 
+<img src="https://www.facebook.com/photo.php?fbid=10150904042088966&set=a.444931003965.228519.670898965&type=3&theater"
+style="width: 20%; float: right">
+
 #### Antoine Durdek
 - PhD student
 - Department of Mathematics and Statistics
+
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/000/19f/30957f4.jpg"
+style="width: 100%; float: right">
 
 #### Eirik Fossgaard
 - Postdoc
