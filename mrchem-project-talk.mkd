@@ -365,13 +365,13 @@ The MRCPP C++ code
 - MRA library
 - NS-form operator application
 - Arithmetic operations
-- OpenMP parallelized
+- OpenMP parallelization
 
 The MRChem C++ code
 - Chemistry application of MRCPP
 - Ground state SCF solver
 - Linear response solver (coming soon)
-- MPI parallelized (coming soon)
+- MPI parallelization (coming soon)
 
 ]
 
