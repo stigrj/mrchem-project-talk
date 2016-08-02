@@ -56,13 +56,11 @@ layout: false
 - Postdoc
 - Department of Chemistry
 
-<img src="images/stig.jpg" style="width: 20%; float: left">
-
 #### Peter Wind
 - Researcher (20%)
 - Department of Chemistry
 
-<img src="images/peter.jpg" style="width: 20%; float: left">
+<img src="images/peter.jpg" style="width: 20%; float: right">
 ]
 
 ---
@@ -75,16 +73,16 @@ layout: false
 ### Technical staff
 ]
 .right-column[
+<img src="images/radovan.jpg" style="width: 20%; float: right">
+
 #### Radovan Bast
 - Senior engineer
 - High Performance Computing group
 
-<img src="images/radovan.jpg" style="width: 20%; float: left">
-
 #### Dan Jonsson
 - Senior engineer
 - High Performance Computing group
-<img src="images/dan.jpg" style="width: 20%; float: left">
+<img src="images/dan.jpg" style="width: 20%; float: right">
 ]
 
 ---
