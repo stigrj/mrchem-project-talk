@@ -24,18 +24,20 @@ layout: false
 ## People involved
 ### Senior scientists
 ]
+.center-column[
+<img src="images/luca.jpg" style="width: 20%; float: left">
+
+<img src="images/tor.jpg" style="width: 20%; float: left">
+
+]
 .right-column[
 #### Luca Frediani
-
-<img src="images/luca.jpg" style="width: 20%; float: left">
 
 - Assistant professor
 
 - Department of Chemistry
 
 #### Tor Flå
-
-<img src="images/tor.jpg" style="width: 20%; float: left">
 
 - Professor
 
@@ -177,28 +179,28 @@ style="width: 50%; float: center">
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg"
-style="width: 110%; float: center">
+style="width: 100%; float: center">
 
 ---
 
 template: inverse
 <img
 src="http://admin6.clikpic.com/audunrikardsen/images/Panorame_Sess%C3%B8ya_360_HS.jpg"
-style="width: 110%; float: center">
+style="width: 100%; float: center">
 
 ---
 
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/Skilykke_Storsolpan_1.jpg"
-style="width: 110%; float: center">
+style="width: 100%; float: center">
 
 ---
 
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
-style="width: 110%; float: center">
+style="width: 100%; float: center">
 
 ---
 
