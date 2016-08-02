@@ -193,6 +193,7 @@ template: inverse
 .footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]]
 
 [www.audunrikardsen.com]: https://www.audunrikardsen.com
+
 ---
 
 template: inverse
@@ -227,6 +228,17 @@ template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
 style="width: 100%; float: center">
+
+---
+
+template: inverse
+
+# Living in Tromsø
+## Reality<sup>.red[*]</sup>
+
+.footnote[.red[*]Photos by random people on the internet, see [theinternet.com]]
+
+[theinternet.com]: https://theinternet.com
 
 ---
 
