@@ -192,20 +192,13 @@ template: inverse
 
 .footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]]
 
-[www.audunrikardsen.com]: https://www.audunrikardsen.com
+[www.audunrikardsen.com]: www.audunrikardsen.com
 
 ---
 
 template: inverse
 <img
-src="http://www6.clikpic.com/audunrikardsen/images/Stjerner_fra_to_verdener_Audun_Rikardsen_72ppi_HS.jpg"
-style="width: 50%; float: center">
-
----
-
-template: inverse
-<img
-src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg"
+src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
 style="width: 100%; float: center">
 
 ---
@@ -219,6 +212,13 @@ style="width: 100%; float: center">
 
 template: inverse
 <img
+src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg"
+style="width: 100%; float: center">
+
+---
+
+template: inverse
+<img
 src="http://amazon.clikpic.com/audunrikardsen/images/Skilykke_Storsolpan_1.jpg"
 style="width: 100%; float: center">
 
@@ -226,8 +226,8 @@ style="width: 100%; float: center">
 
 template: inverse
 <img
-src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
-style="width: 100%; float: center">
+src="http://www6.clikpic.com/audunrikardsen/images/Stjerner_fra_to_verdener_Audun_Rikardsen_72ppi_HS.jpg"
+style="width: 50%; float: center">
 
 ---
 
@@ -238,7 +238,28 @@ template: inverse
 
 .footnote[.red[*]Photos by random people on the internet, see [theinternet.com]]
 
-[theinternet.com]: https://theinternet.com
+[theinternet.com]: theinternet.com
+
+---
+
+template: inverse
+<img
+src="http://www.itromso.no/nyheter/article8728429.ece/ALTERNATES/w980-default/Uv%C3%A6r,%20storm%20sn%C3%B8"
+style="width: 100%; float: center">
+
+---
+
+template: inverse
+<img
+src="http://www.itromso.no/nyhet/article4121047.ece/BINARY/w980-adaptive/regnv__r003.jpg"
+style="width: 100%; float: center">
+
+---
+
+template: inverse
+<img
+src="http://2.bp.blogspot.com/-jCCNOGRaOlI/Ttu9Q6_mydI/AAAAAAAAAtw/qThgBMscuWE/s1600/snasa12.jpg"
+style="width: 100%; float: center">
 
 ---
 
