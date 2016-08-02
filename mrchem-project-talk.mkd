@@ -367,6 +367,22 @@ The MRCPP C++ code
 - Arithmetic operations
 - OpenMP parallelization
 
+]
+
+---
+
+layout: false
+.left-column[
+## MRChem
+]
+.right-column[
+#### The MRCPP/MRChem code today
+The MRCPP C++ code
+- MRA library
+- NS-form operator application
+- Arithmetic operations
+- OpenMP parallelization
+
 The MRChem C++ code
 - Chemistry application of MRCPP
 - Ground state SCF solver
@@ -379,6 +395,22 @@ The MRChem C++ code
 
 template: inverse
 # What will we be doing?
+
+---
+
+layout: false
+.left-column[
+## Future plans
+]
+.right-column[
+#### Improvements
+- Optimize MRCPP (sequential style)
+- MPI parallelize MRChem
+- Data locality vs data distribution
+- Reach out to the chemistry application community
+- Not that interested in high accuracy (why would they?)
+
+]
 
 ---
 
