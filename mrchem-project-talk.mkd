@@ -30,14 +30,12 @@ layout: false
 <img src="images/luca.jpg" style="width: 20%; float: right">
 
 #### Luca Frediani
-
 - Assistant professor
 - Department of Chemistry
 
 <img src="images/tor.jpg" style="width: 20%; float: right">
 
 #### Tor Flå
-
 - Professor
 - Department of Mathematics and Statistics
 
@@ -162,27 +160,8 @@ layout: false
 .right-column[
 <img
 src="http://snapsandblabs.com/blog/wp-content/uploads/2012/05/TromsoMap.jpg"
-style="width: 100%; float: left">
+style="width: 100%; float: center">
 
-]
-
----
-
-layout: false
-.left-column[
-## Norway
-### Tromsø
-### University
-]
-.right-column[
-<img
-src="http://snapsandblabs.com/blog/wp-content/uploads/2012/05/TromsoMap.jpg"
-style="width: 100%; float: left">
-
-#### UiT - The Arctic University of Norway
-- 6 different locations
-- ~3500 employees
-- ~16000 students
 ]
 
 ---
