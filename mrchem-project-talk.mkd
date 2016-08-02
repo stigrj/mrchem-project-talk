@@ -286,9 +286,9 @@ layout: false
 
 <img
 src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 70%; float: center">
+style="width: 60%; float: center">
 
-.footnote[.red[*] [xkcd.com] ]
+.footnote[ [xkcd.com] ]
 
 [xkcd.com]: http://xkcd.com/844/
 ]
@@ -316,9 +316,9 @@ layout: false
 
 <img
 src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 70%; float: center">
+style="width: 60%; float: center">
 
-.footnote[.red[*] [xkcd.com] ]
+.footnote[ [xkcd.com] ]
 
 [xkcd.com]: http://xkcd.com/844/
 ]
