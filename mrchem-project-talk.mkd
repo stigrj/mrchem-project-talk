@@ -30,17 +30,13 @@ layout: false
 <img src="images/luca.jpg" style="width: 19%; float: right">
 
 #### Luca Frediani
-
 - Assistant professor
-
 - Department of Chemistry
 
 <img src="images/tor.jpg" style="width: 19%; float: right">
 
 #### Tor Flå
-
 - Professor
-
 - Department of Mathematics and Statistics
 
 ]
@@ -130,7 +126,8 @@ style="width: 20%; float: right">
 - Senior engineer
 - High Performance Computing group
 
-<img src="https://www.facebook.com/photo.php?fbid=10150904042088966&set=a.444931003965.228519.670898965&type=3&theater"
+<img
+src="https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/457707_10150904042088966_1223726666_o.jpg"
 style="width: 20%; float: right">
 
 #### Antoine Durdek
@@ -309,7 +306,7 @@ layout: false
 ## MRChem
 ]
 .right-column[
-#### The brief wondrous life of MRChem
+#### The history of MRChem
 Initiated back in 2003 by Tor Flå and Kenneth Ruud
 
 The MRChem C code
@@ -364,17 +361,17 @@ layout: false
 ]
 .right-column[
 #### The MRCPP/MRChem code today
-- The MRCPP C++ code
-  * MRA library
-  * NS-form operator application
-  * Arithmetic operations
-  * OpenMP parallelized
+The MRCPP C++ code
+- MRA library
+- NS-form operator application
+- Arithmetic operations
+- OpenMP parallelized
 
-- The MRChem C++ code
-  * Chemistry application of MRCPP
-  * Ground state SCF solver
-  * Linear response solver (coming soon)
-  * MPI parallelized (coming soon)
+The MRChem C++ code
+- Chemistry application of MRCPP
+- Ground state SCF solver
+- Linear response solver (coming soon)
+- MPI parallelized (coming soon)
 
 ]
 
