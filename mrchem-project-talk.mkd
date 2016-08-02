@@ -160,9 +160,39 @@ layout: false
 .right-column[
 <img
 src="http://snapsandblabs.com/blog/wp-content/uploads/2012/05/TromsoMap.jpg"
-style="width: 80%; float: left">
+style="width: 90%; float: left">
+
 ]
 
+---
+
+layout: false
+.left-column[
+## Norway
+### Tromsø
+### The University
+]
+.right-column[
+<img
+src="http://snapsandblabs.com/blog/wp-content/uploads/2012/05/TromsoMap.jpg"
+style="width: 90%; float: left">
+
+#### UiT - The Arctic University of Norway
+- 6 different locations
+- ~3500 employees
+- ~16000 students
+]
+
+---
+
+template: inverse
+
+# Living in Tromsø
+## Expectations<sup>.red[*]</sup>
+
+.footnote[.red[*]Photos by Audun Rikardsen, see [www.audunrikardsen.com]
+
+[www.audunrikardsen.com]: https://www.audunrikardsen.com
 ---
 
 template: inverse
