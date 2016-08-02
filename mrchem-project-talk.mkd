@@ -30,13 +30,17 @@ layout: false
 <img src="images/luca.jpg" style="width: 20%; float: right">
 
 #### Luca Frediani
+
 - Assistant professor
+
 - Department of Chemistry
 
 <img src="images/tor.jpg" style="width: 20%; float: right">
 
 #### Tor Flå
+
 - Professor
+
 - Department of Mathematics and Statistics
 
 ]
