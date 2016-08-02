@@ -54,7 +54,7 @@ layout: false
 - Postdoc
 - Department of Chemistry
 
-<img src="images/peter.jpg" style="width: 20%; float: right">
+<img src="images/peter.jpg" style="width: 15%; float: right">
 
 #### Peter Wind
 - Researcher (20%)
@@ -78,7 +78,7 @@ layout: false
 - Senior engineer
 - High Performance Computing group
 
-<img src="images/dan.jpg" style="width: 20%; float: right">
+<img src="images/dan.jpg" style="width: 15%; float: right">
 
 #### Dan Jonsson
 - Senior engineer
@@ -104,7 +104,7 @@ layout: false
 - Master student
 - Department of Mathematics and Statistics
 
-<img src="images/rune_magnar.jpg" style="width: 70%; float: left">
+<img src="images/rune_magnar.jpg" style="width: 60%; float: center">
 ]
 
 ---
@@ -120,7 +120,7 @@ layout: false
 ]
 .right-column[
 <img src="http://hrogn.no/jonas.jpg"
-style="width: 20%; float: right">
+style="width: 15%; float: right">
 
 #### Jonas Juselius
 - Senior engineer
@@ -128,14 +128,14 @@ style="width: 20%; float: right">
 
 <img
 src="https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/457707_10150904042088966_1223726666_o.jpg"
-style="width: 16%; float: right">
+style="width: 15%; float: right">
 
 #### Antoine Durdek
 - PhD student
 - Department of Mathematics and Statistics
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/000/19f/30957f4.jpg"
-style="width: 20%; float: right">
+style="width: 15%; float: right">
 
 #### Eirik Fossgaard
 - Postdoc
