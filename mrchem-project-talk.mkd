@@ -30,7 +30,7 @@ layout: false
 <img src="images/luca.jpg" style="width: 15%; float: right">
 
 #### Luca Frediani
-- Assistant professor
+- Associate professor
 - Department of Chemistry
 
 <img src="images/tor.jpg" style="width: 15%; float: right">
