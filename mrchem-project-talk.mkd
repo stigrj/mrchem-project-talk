@@ -8,7 +8,7 @@ class: center, middle, inverse
 
 .author[Stig Rune Jensen]
 
-.date[3 August 2016, Stony Brook, NY]
+.date[12 June 2017, Basel, Switzerland]
 
 .footnote[Slides available on [GitHub](https://github.com/stigrj/mrchem-project-talk)]
 
@@ -39,8 +39,7 @@ layout: false
 - Professor
 - Department of Mathematics and Statistics
 
-<img src="https://pbs.twimg.com/profile_images/3162653940/375507b3af586f5758b8fbc08c10352a_400x400.jpeg"
-style="width: 15%; float: right">
+<img src="images/kenneth.jpg" style="width: 15%; float: right">
 
 #### Kenneth Ruud
 - Professor
@@ -57,8 +56,10 @@ layout: false
 ### Researchers
 ]
 .right-column[
+<img src="images/stig.jpg" style="width: 15%; float: right">
+
 #### Stig Rune Jensen
-- Postdoc
+- Researcher
 - Department of Chemistry
 
 <img src="images/peter.jpg" style="width: 15%; float: right">
@@ -116,42 +117,6 @@ layout: false
 
 ---
 
-layout: false
-.left-column[
-## People involved
-### Senior scientists
-### Researchers
-### Technicians
-### Students
-### Former members
-]
-.right-column[
-<img src="http://hrogn.no/jonas.jpg"
-style="width: 20%; float: right">
-
-#### Jonas Juselius
-- Senior engineer
-- High Performance Computing group
-
-<img
-src="https://scontent-yyz1-1.xx.fbcdn.net/t31.0-8/s960x960/457707_10150904042088966_1223726666_o.jpg"
-style="width: 15%; float: right">
-
-#### Antoine Durdek
-- PhD student
-- Department of Mathematics and Statistics
-
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/000/19f/30957f4.jpg"
-style="width: 20%; float: right">
-
-#### Eirik Fossgaard
-- Postdoc
-- Department of Mathematics and Statistics
-
-]
-
----
-
 template: inverse
 # Where are we?
 
@@ -164,7 +129,7 @@ layout: false
 ]
 .right-column[
 <img
-src="http://www.athropolis.com/graphics/arcticmap-circle.gif"
+src="images/arctic_circle.jpg"
 style="width: 80%; float: left">
 ]
 
@@ -183,21 +148,7 @@ template: inverse
 
 template: inverse
 <img
-src="http://amazon.clikpic.com/audunrikardsen/images/William-dropper-over-Troms%C3%B8-panorama-regigert-m-nordlys-HS1.jpg"
-style="width: 100%; float: center">
-
----
-
-template: inverse
-<img
-src="http://admin6.clikpic.com/audunrikardsen/images/Panorame_Sess%C3%B8ya_360_HS.jpg"
-style="width: 100%; float: center">
-
----
-
-template: inverse
-<img
-src="http://amazon.clikpic.com/audunrikardsen/images/Kvalhale_med_blitz_mot_horisont_for_HS.jpg"
+src="http://amazon.clikpic.com/audunrikardsen/images/3_William_dropper_over_Troms%C3%B8_panorama_.jpg"
 style="width: 100%; float: center">
 
 ---
@@ -211,8 +162,8 @@ style="width: 100%; float: center">
 
 template: inverse
 <img
-src="http://www6.clikpic.com/audunrikardsen/images/Stjerner_fra_to_verdener_Audun_Rikardsen_72ppi_HS.jpg"
-style="width: 50%; float: center">
+src="http://amazon.clikpic.com/audunrikardsen/images/Nordlys_over_Troms%C3%B8_for_HS.jpg"
+style="width: 100%; float: center">
 
 ---
 
@@ -254,183 +205,71 @@ template: inverse
 ---
 
 template: inverse
+
+layout: false
+.left-column[
+## What is MRChem?
+]
+
+
+.right-column[
 <img
-src="https://i.ytimg.com/vi/fWnF3YVwz2Y/hqdefault.jpg"
+src="images/mr_chem.jpg"
 style="width: 80%; float: center">
-
----
-
-layout: false
-.left-column[
-## MRChem
-]
-.right-column[
-#### The history of MRChem
-Initiated back in 2004-2005 by Tor Flå and Kenneth Ruud
-
-The MRChem C code
-- Written by Luca Frediani and Eirik Fossgaard
-- NS-form operator application
-- I joined as a master student in 2007 and prepared
-  the code for molecular computations
-
-]
-
----
-
-layout: false
-.left-column[
-## MRChem
-]
-.right-column[
-
-<img
-src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 60%; float: center">
-
-.footnote[ [xkcd.com] ]
-
-[xkcd.com]: http://xkcd.com/844/
-]
-
----
-
-layout: false
-.left-column[
-## MRChem
-]
-.right-column[
-#### The history of MRChem
-Initiated back in 2004-2005 by Tor Flå and Kenneth Ruud
-
-The MRChem C code
-- Written by Luca Frediani and Eirik Fossgaard
-- NS-form operator application
-- I joined as a master student in 2007 and started
-  preparing the code for molecular computations
-
-The MRCPP C++ code
-- Written (mostly) by me and Jonas Juselius
-- NS-form operator application
-- Hybrid MPI/OpenMP parallelization
-- Ground state SCF solver
-- Linear response solver
-  * Static and dynamic
-  * Polarizability
-  * Magnetizability
-  * NMR shielding constants
-  * Optical rotation
-
-]
-
----
-
-layout: false
-.left-column[
-## MRChem
-]
-.right-column[
-
-<img
-src="http://imgs.xkcd.com/comics/good_code.png"
-style="width: 60%; float: center">
-
-.footnote[ [xkcd.com] ]
-
-[xkcd.com]: http://xkcd.com/844/
 ]
 
 ---
 
 template: inverse
-# Twice spaghetti code<sup>.red[*]</sup>
-
-.footnote[.red[*]and now the requirements have partially changed]
-
----
 
 layout: false
 .left-column[
-## MRChem
+## What is MRChem?
+### MRCPP
 ]
+
 .right-column[
-#### The MRCPP/MRChem code today
-The MRCPP C++ code
-- MRA library
-- NS-form operator application
-- Arithmetic operations
-- OpenMP parallelization
 
-]
-
----
-
-layout: false
-.left-column[
-## MRChem
-]
-.right-column[
-#### The MRCPP/MRChem code today
-The MRCPP C++ code
-- MRA library
-- NS-form operator application
-- Arithmetic operations
-- OpenMP parallelization
-
-The MRChem C++ code
-- Chemistry application of MRCPP
-- Ground state SCF solver
-- Linear response solver (coming soon)
-- MPI parallelization (coming soon)
+#### MultiResolution Computation Program Package (MRCPP)
+- Multiresoluton representation of functions and operators
+- On-the-fly adaptive multiresolution grids
+- Arithmetic operations and numerical integrals
+- __Linear scaling__ application of operators
+- __Guaranteed accuracy__
 
 ]
 
 ---
 
 template: inverse
-# What will we be doing?
-
----
 
 layout: false
 .left-column[
-## Future plans
+## What is MRChem?
+### MRCPP
+### MRChem
 ]
-.right-column[
-#### Improvements
-- Optimize MRCPP (sequential style)
-- MPI parallelize MRChem
-- Data locality vs data distribution
-- Reach out to the chemistry application community
-- Not that interested in high accuracy (why would they?)
 
+.right-column[
+
+#### MultiResolution Computation Program Package (MRCPP)
+- Multiresoluton representation of functions and operators
+- On-the-fly adaptive multiresolution grids
+- Arithmetic operations and numerical integrals
+- __Linear scaling__ application of operators
+- __Guaranteed accuracy__
+
+#### MultiResolution Chemistry (MRChem)
+- Numerical solution of electronic structure
+- SCF level of theory (Hartree-Fock and DFT)
+- Spin-restricted and spin-unrestricted
+- Able to attain __very high__ numerical precision
+- Static and dynamic linear response
+- Electric and magnetic properties
 ]
 
 ---
 
-layout: false
-.left-column[
-## Future plans
-]
-.right-column[
-#### Improvements
-- Optimize MRCPP (sequential style)
-- MPI parallelize MRChem
-- Data locality vs data distribution
-- Reach out to the chemistry application community
-- Not that interested in high accuracy (why would they?)
-
-#### New features
-- Re-introduce linear response code
-- Higher order response (OpenRSP)
-- Relativity
-- Periodic boundary conditions
-- Explicit magnetic fields
-- Time propagation
-- Orbital-Free DFT
-]
-
----
 name: last-page
 template: inverse
 
