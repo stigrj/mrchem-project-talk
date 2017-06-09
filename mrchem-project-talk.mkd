@@ -109,8 +109,8 @@ layout: false
 - Department of Chemistry
 
 #### Magnar Bjørgve
-- Master student
-- Department of Mathematics and Statistics
+- PhD student
+- Department of Chemistry
 
 <img src="images/rune_magnar.jpg" style="width: 70%; float: center">
 ]
@@ -204,14 +204,10 @@ template: inverse
 
 ---
 
-template: inverse
-
 layout: false
 .left-column[
 ## What is MRChem?
 ]
-
-
 .right-column[
 <img
 src="images/mr_chem.jpg"
@@ -220,28 +216,21 @@ style="width: 80%; float: center">
 
 ---
 
-template: inverse
-
 layout: false
 .left-column[
 ## What is MRChem?
 ### MRCPP
 ]
-
 .right-column[
-
 #### MultiResolution Computation Program Package (MRCPP)
 - Multiresoluton representation of functions and operators
 - On-the-fly adaptive multiresolution grids
 - Arithmetic operations and numerical integrals
 - __Linear scaling__ application of operators
 - __Guaranteed accuracy__
-
 ]
 
 ---
-
-template: inverse
 
 layout: false
 .left-column[
@@ -249,9 +238,7 @@ layout: false
 ### MRCPP
 ### MRChem
 ]
-
 .right-column[
-
 #### MultiResolution Computation Program Package (MRCPP)
 - Multiresoluton representation of functions and operators
 - On-the-fly adaptive multiresolution grids
