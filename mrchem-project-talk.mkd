@@ -137,7 +137,7 @@ layout: false
 ### Tromsø
 ]
 .right-column[
-<img src="images/arctic_circle.jpg" style="width: 80%; float: left">
+<img src="images/arctic_circle.jpg" style="width: 90%; float: left">
 ]
 
 ---
@@ -170,7 +170,7 @@ style="width: 100%; float: center">
 template: inverse
 <img
 src="http://amazon.clikpic.com/audunrikardsen/images/Nordlys_over_Troms%C3%B8_for_HS.jpg"
-style="width: 100%; float: center">
+style="width: 90%; float: center">
 
 ---
 
