@@ -227,7 +227,7 @@ layout: false
 - On-the-fly adaptive multiresolution grids
 - Arithmetic operations and numerical integrals
 - __Linear scaling__ application of operators
-- __Guaranteed accuracy__
+- __Guaranteed precision__
 ]
 
 ---
@@ -244,7 +244,7 @@ layout: false
 - On-the-fly adaptive multiresolution grids
 - Arithmetic operations and numerical integrals
 - __Linear scaling__ application of operators
-- __Guaranteed accuracy__
+- __Guaranteed precision__
 
 #### MultiResolution Chemistry
 - Numerical solution of electronic structure
